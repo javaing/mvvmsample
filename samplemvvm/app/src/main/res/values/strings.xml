@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="app_title">JsonPlaceholder API</string>
+    <string name="loading">讀取中，請稍後</string>
+</resources>
